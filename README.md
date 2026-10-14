@@ -2,7 +2,7 @@
 
 Classifies text messages as **spam** or **ham** (normal message) using TF-IDF features and a Support Vector Machine (SVM).
 
-> Replace `YOUR_USERNAME` and `YOUR_REPO` below with your own GitHub details, then the button works.
+> Replace `nafi-zaman` and `sms-spam-classification-svm` below with your own GitHub details, then the button works.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/SMS_Spam_SVM_Improved.ipynb)
 
